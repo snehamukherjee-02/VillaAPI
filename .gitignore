@@ -1,7 +1,6 @@
 # Ignore ASP.NET Core build files
 practiceApi/bin/
 practiceApi/obj/
-practiceApi/appsettings.json/
 .vs/
 
 # Ignore Vue.js build files
