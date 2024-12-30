@@ -85,3 +85,5 @@ POST /api/comment – Create a new comment.
 DELETE /api/comment/{id} – Delete a comment.
 CORS Configuration
 The API has been configured with CORS to allow cross-origin requests, enabling seamless communication between the frontend (Vue.js) and backend (ASP.NET Core).
+License
+This project is licensed under the MIT License.
